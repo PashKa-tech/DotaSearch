@@ -13,11 +13,11 @@ server.get('/', (req, res) => {
 
 function createWindow() {
   const win = new BrowserWindow({
-    width: 1000,
-    height: 700,
+    width: 900,
+    height: 600,
     icon: path.join(__dirname, 'dota.ico'),
     autoHideMenuBar: true,
-    frame: false,
+    frame: false,  
     transparent: true,
     resizable: false,
     fullscreenable: false,
@@ -34,14 +34,30 @@ function createWindow() {
   win.loadURL(`http://localhost:${PORT}`);
 
   win.webContents.setWindowOpenHandler(({ url }) => {
-    shell.openExternal(url);
+    const newWin = new BrowserWindow({
+      width: 900,
+      height: 600,
+      autoHideMenuBar: true,
+      frame: true,
+      webPreferences: {
+        contextIsolation: true,
+        preload: path.join(__dirname, 'preload.js')
+      }
+    });
+
+    newWin.loadURL(url); 
     return { action: 'deny' };
   });
 
-  // IPC события
+  // IPC события для управления окнами
   ipcMain.on('close-window', () => win.close());
   ipcMain.on('minimize-window', () => win.minimize());
   ipcMain.on('maximize-window', () => {
+    if (win.isMaximized()) {
+      win.unmaximize();
+    } else {
+      win.maximize();
+    }
   });
 }
 

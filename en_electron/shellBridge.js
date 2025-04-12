@@ -1,4 +1,3 @@
-// shellBridge.js
 const { shell } = require('electron');
 
 module.exports = {
