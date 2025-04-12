@@ -1,0 +1,380 @@
+{
+  "Alchemist": {
+    "img": "Alchemist.jpg"
+  },
+  "Axe": {
+    "img": "Axe.jpg"
+  },
+  "Bristleback": {
+    "img": "Bristleback.jpg"
+  },
+  "Centaur Warrunner": {
+    "img": "Centaur_Warrunner.jpg"
+  },
+  "Chaos Knight": {
+    "img": "Chaos_Knight.jpg"
+  },
+  "Clockwerk": {
+    "img": "Clockwerk.jpg"
+  },
+  "Dawnbreaker": {
+    "img": "Dawnbreaker.jpg"
+  },
+  "Doom": {
+    "img": "Doom.jpg"
+  },
+  "Dragon Knight": {
+    "img": "Dragon_Knight.jpg"
+  },
+  "Earth Spirit": {
+    "img": "Earth_Spirit.jpg"
+  },
+  "Earthshaker": {
+    "img": "Earthshaker.jpg"
+  },
+  "Elder Titan": {
+    "img": "Elder_Titan.jpg"
+  },
+  "Huskar": {
+    "img": "Huskar.jpg"
+  },
+  "Kunkka": {
+    "img": "Kunkka.jpg"
+  },
+  "Legion Commander": {
+    "img": "Legion_Commander.jpg"
+  },
+  "Lifestealer": {
+    "img": "Lifestealer.jpg"
+  },
+  "Lycan": {
+    "img": "Lycan.jpg"
+  },
+  "Mars": {
+    "img": "Mars.jpg"
+  },
+  "Night Stalker": {
+    "img": "Night_Stalker.jpg"
+  },
+  "Ogre Magi": {
+    "img": "Ogre_Magi.jpg"
+  },
+  "Omniknight": {
+    "img": "Omniknight.jpg"
+  },
+  "Phoenix": {
+    "img": "Phoenix.jpg"
+  },
+  "Primal Beast": {
+    "img": "Primal_Beast.jpg"
+  },
+  "Pudge": {
+    "img": "Pudge.jpg"
+  },
+  "Slardar": {
+    "img": "Slardar.jpg"
+  },
+  "Spirit Breaker": {
+    "img": "Spirit_Breaker.jpg"
+  },
+  "Sven": {
+    "img": "Sven.jpg"
+  },
+  "Tidehunter": {
+    "img": "Tidehunter.jpg"
+  },
+  "Timbersaw": {
+    "img": "Timbersaw.jpg"
+  },
+  "Tiny": {
+    "img": "Tiny.jpg"
+  },
+  "Treant Protector": {
+    "img": "Treant_Protector.jpg"
+  },
+  "Tusk": {
+    "img": "Tusk.jpg"
+  },
+  "Underlord": {
+    "img": "Underlord.jpg"
+  },
+  "Undying": {
+    "img": "Undying.jpg"
+  },
+  "Wraith King": {
+    "img": "Wraith_King.jpg"
+  },
+  "Anti-Mage": {
+    "img": "Anti-Mage.jpg"
+  },
+  "Bloodseeker": {
+    "img": "Bloodseeker.jpg"
+  },
+  "Bounty Hunter": {
+    "img": "Bounty_Hunter.jpg"
+  },
+  "Broodmother": {
+    "img": "Broodmother.jpg"
+  },
+  "Clinkz": {
+    "img": "Clinkz.jpg"
+  },
+  "Drow Ranger": {
+    "img": "Drow_Ranger.jpg"
+  },
+  "Ember Spirit": {
+    "img": "Ember_Spirit.jpg"
+  },
+  "Faceless Void": {
+    "img": "Faceless_Void.jpg"
+  },
+  "Gyrocopter": {
+    "img": "Gyrocopter.jpg"
+  },
+  "Hoodwink": {
+    "img": "Hoodwink.jpg"
+  },
+  "Juggernaut": {
+    "img": "Juggernaut.jpg"
+  },
+  "Kez": {
+    "img": "Kez.jpg"
+  },
+  "Lone Druid": {
+    "img": "Lone_Druid.jpg"
+  },
+  "Luna": {
+    "img": "Luna.jpg"
+  },
+  "Medusa": {
+    "img": "Medusa.jpg"
+  },
+  "Meepo": {
+    "img": "Meepo.jpg"
+  },
+  "Mirana": {
+    "img": "Mirana.jpg"
+  },
+  "Monkey King": {
+    "img": "Monkey_King.jpg"
+  },
+  "Morphling": {
+    "img": "Morphling.jpg"
+  },
+  "Naga Siren": {
+    "img": "Naga_Siren.jpg"
+  },
+  "Phantom Assassin": {
+    "img": "Phantom_Assassin.jpg"
+  },
+  "Phantom Lancer": {
+    "img": "Phantom_Lancer.jpg"
+  },
+  "Razor": {
+    "img": "Razor.jpg"
+  },
+  "Riki": {
+    "img": "Riki.jpg"
+  },
+  "Shadow Fiend": {
+    "img": "Shadow_Fiend.jpg"
+  },
+  "Slark": {
+    "img": "Slark.jpg"
+  },
+  "Sniper": {
+    "img": "Sniper.jpg"
+  },
+  "Templar Assassin": {
+    "img": "Templar_Assassin.jpg"
+  },
+  "Terrorblade": {
+    "img": "Terrorblade.jpg"
+  },
+  "Troll Warlord": {
+    "img": "Troll_Warlord.jpg"
+  },
+  "Ursa": {
+    "img": "Ursa.jpg"
+  },
+  "Vengeful Spirit": {
+    "img": "Vengeful_Spirit.jpg"
+  },
+  "Viper": {
+    "img": "Viper.jpg"
+  },
+  "Weaver": {
+    "img": "Weaver.jpg"
+  },
+  "Ancient Apparition": {
+    "img": "Ancient_Apparition.jpg"
+  },
+  "Chen": {
+    "img": "Chen.jpg"
+  },
+  "Crystal Maiden": {
+    "img": "Crystal_Maiden.jpg"
+  },
+  "Dark Seer": {
+    "img": "Dark_Seer.jpg"
+  },
+  "Dark Willow": {
+    "img": "Dark_Willow.jpg"
+  },
+  "Disruptor": {
+    "img": "Disruptor.jpg"
+  },
+  "Enchantress": {
+    "img": "Enchantress.jpg"
+  },
+  "Grimstroke": {
+    "img": "Grimstroke.jpg"
+  },
+  "Invoker": {
+    "img": "Invoker.jpg"
+  },
+  "Jakiro": {
+    "img": "Jakiro.jpg"
+  },
+  "Keeper of the Light": {
+    "img": "Keeper_of_the_Light.jpg"
+  },
+  "Leshrac": {
+    "img": "Leshrac.jpg"
+  },
+  "Lich": {
+    "img": "Lich.jpg"
+  },
+  "Lina": {
+    "img": "Lina.jpg"
+  },
+  "Lion": {
+    "img": "Lion.jpg"
+  },
+  "Muerta": {
+    "img": "Muerta.jpg"
+  },
+  "Necrophos": {
+    "img": "Necrophos.jpg"
+  },
+  "Oracle": {
+    "img": "Oracle.jpg"
+  },
+  "Outworld Destroyer": {
+    "img": "Outworld_Destroyer.jpg"
+  },
+  "Puck": {
+    "img": "Puck.jpg"
+  },
+  "Pugna": {
+    "img": "Pugna.jpg"
+  },
+  "Queen of Pain": {
+    "img": "Queen_of_Pain.jpg"
+  },
+  "Ringmaster": {
+    "img": "Ringmaster.jpg"
+  },
+  "Rubick": {
+    "img": "Rubick.jpg"
+  },
+  "Shadow Demon": {
+    "img": "Shadow_Demon.jpg"
+  },
+  "Shadow Shaman": {
+    "img": "Shadow_Shaman.jpg"
+  },
+  "Silencer": {
+    "img": "Silencer.jpg"
+  },
+  "Skywrath Mage": {
+    "img": "Skywrath_Mage.jpg"
+  },
+  "Storm Spirit": {
+    "img": "Storm_Spirit.jpg"
+  },
+  "Tinker": {
+    "img": "Tinker.jpg"
+  },
+  "Warlock": {
+    "img": "Warlock.jpg"
+  },
+  "Winter Wyvern": {
+    "img": "Winter_Wyvern.jpg"
+  },
+  "Witch Doctor": {
+    "img": "Witch_Doctor.jpg"
+  },
+  "Zeus": {
+    "img": "Zeus.jpg"
+  },
+  "Abaddon": {
+    "img": "Abaddon.jpg"
+  },
+  "Arc Warden": {
+    "img": "Arc_Warden.jpg"
+  },
+  "Bane": {
+    "img": "Bane.jpg"
+  },
+  "Batrider": {
+    "img": "Batrider.jpg"
+  },
+  "Beastmaster": {
+    "img": "Beastmaster.jpg"
+  },
+  "Brewmaster": {
+    "img": "Brewmaster.jpg"
+  },
+  "Dazzle": {
+    "img": "Dazzle.jpg"
+  },
+  "Death Prophet": {
+    "img": "Death_Prophet.jpg"
+  },
+  "Enigma": {
+    "img": "Enigma.jpg"
+  },
+  "Io": {
+    "img": "Io.jpg"
+  },
+  "Magnus": {
+    "img": "Magnus.jpg"
+  },
+  "Marci": {
+    "img": "Marci.jpg"
+  },
+  "Nature's Prophet": {
+    "img": "Nature's_Prophet.jpg"
+  },
+  "Nyx Assassin": {
+    "img": "Nyx_Assassin.jpg"
+  },
+  "Pangolier": {
+    "img": "Pangolier.jpg"
+  },
+  "Sand King": {
+    "img": "Sand_King.jpg"
+  },
+  "Snapfire": {
+    "img": "Snapfire.jpg"
+  },
+  "Spectre": {
+    "img": "Spectre.jpg"
+  },
+  "Techies": {
+    "img": "Techies.jpg"
+  },
+  "Venomancer": {
+    "img": "Venomancer.jpg"
+  },
+  "Visage": {
+    "img": "Visage.jpg"
+  },
+  "Void Spirit": {
+    "img": "Void_Spirit.jpg"
+  },
+  "Windranger": {
+    "img": "Windranger.jpg"
+  }
+}

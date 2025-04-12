@@ -1,0 +1,380 @@
+{
+  "Alchemist": {
+    "info_url": "https://www.dotabuff.com/heroes/alchemist"
+  },
+  "Axe": {
+    "info_url": "https://www.dotabuff.com/heroes/axe"
+  },
+  "Bristleback": {
+    "info_url": "https://www.dotabuff.com/heroes/bristleback"
+  },
+  "Centaur Warrunner": {
+    "info_url": "https://www.dotabuff.com/heroes/centaur-warrunner"
+  },
+  "Chaos Knight": {
+    "info_url": "https://www.dotabuff.com/heroes/chaos-knight"
+  },
+  "Clockwerk": {
+    "info_url": "https://www.dotabuff.com/heroes/clockwerk"
+  },
+  "Dawnbreaker": {
+    "info_url": "https://www.dotabuff.com/heroes/dawnbreaker"
+  },
+  "Doom": {
+    "info_url": "https://www.dotabuff.com/heroes/doom"
+  },
+  "Dragon Knight": {
+    "info_url": "https://www.dotabuff.com/heroes/dragon-knight"
+  },
+  "Earth Spirit": {
+    "info_url": "https://www.dotabuff.com/heroes/earth-spirit"
+  },
+  "Earthshaker": {
+    "info_url": "https://www.dotabuff.com/heroes/earthshaker"
+  },
+  "Elder Titan": {
+    "info_url": "https://www.dotabuff.com/heroes/elder-titan"
+  },
+  "Huskar": {
+    "info_url": "https://www.dotabuff.com/heroes/huskar"
+  },
+  "Kunkka": {
+    "info_url": "https://www.dotabuff.com/heroes/kunkka"
+  },
+  "Legion Commander": {
+    "info_url": "https://www.dotabuff.com/heroes/legion-commander"
+  },
+  "Lifestealer": {
+    "info_url": "https://www.dotabuff.com/heroes/lifestealer"
+  },
+  "Lycan": {
+    "info_url": "https://www.dotabuff.com/heroes/lycan"
+  },
+  "Mars": {
+    "info_url": "https://www.dotabuff.com/heroes/mars"
+  },
+  "Night Stalker": {
+    "info_url": "https://www.dotabuff.com/heroes/night-stalker"
+  },
+  "Ogre Magi": {
+    "info_url": "https://www.dotabuff.com/heroes/ogre-magi"
+  },
+  "Omniknight": {
+    "info_url": "https://www.dotabuff.com/heroes/omniknight"
+  },
+  "Phoenix": {
+    "info_url": "https://www.dotabuff.com/heroes/phoenix"
+  },
+  "Primal Beast": {
+    "info_url": "https://www.dotabuff.com/heroes/primal-beast"
+  },
+  "Pudge": {
+    "info_url": "https://www.dotabuff.com/heroes/pudge"
+  },
+  "Slardar": {
+    "info_url": "https://www.dotabuff.com/heroes/slardar"
+  },
+  "Spirit Breaker": {
+    "info_url": "https://www.dotabuff.com/heroes/spirit-breaker"
+  },
+  "Sven": {
+    "info_url": "https://www.dotabuff.com/heroes/sven"
+  },
+  "Tidehunter": {
+    "info_url": "https://www.dotabuff.com/heroes/tidehunter"
+  },
+  "Timbersaw": {
+    "info_url": "https://www.dotabuff.com/heroes/timbersaw"
+  },
+  "Tiny": {
+    "info_url": "https://www.dotabuff.com/heroes/tiny"
+  },
+  "Treant Protector": {
+    "info_url": "https://www.dotabuff.com/heroes/treant-protector"
+  },
+  "Tusk": {
+    "info_url": "https://www.dotabuff.com/heroes/tusk"
+  },
+  "Underlord": {
+    "info_url": "https://www.dotabuff.com/heroes/underlord"
+  },
+  "Undying": {
+    "info_url": "https://www.dotabuff.com/heroes/undying"
+  },
+  "Wraith King": {
+    "info_url": "https://www.dotabuff.com/heroes/wraith-king"
+  },
+  "Anti-Mage": {
+    "info_url": "https://www.dotabuff.com/heroes/anti-mage"
+  },
+  "Bloodseeker": {
+    "info_url": "https://www.dotabuff.com/heroes/bloodseeker"
+  },
+  "Bounty Hunter": {
+    "info_url": "https://www.dotabuff.com/heroes/bounty-hunter"
+  },
+  "Broodmother": {
+    "info_url": "https://www.dotabuff.com/heroes/broodmother"
+  },
+  "Clinkz": {
+    "info_url": "https://www.dotabuff.com/heroes/clinkz"
+  },
+  "Drow Ranger": {
+    "info_url": "https://www.dotabuff.com/heroes/drow-ranger"
+  },
+  "Ember Spirit": {
+    "info_url": "https://www.dotabuff.com/heroes/ember-spirit"
+  },
+  "Faceless Void": {
+    "info_url": "https://www.dotabuff.com/heroes/faceless-void"
+  },
+  "Gyrocopter": {
+    "info_url": "https://www.dotabuff.com/heroes/gyrocopter"
+  },
+  "Hoodwink": {
+    "info_url": "https://www.dotabuff.com/heroes/hoodwink"
+  },
+  "Juggernaut": {
+    "info_url": "https://www.dotabuff.com/heroes/juggernaut"
+  },
+  "Kez": {
+    "info_url": "https://www.dotabuff.com/heroes/kez"
+  },
+  "Lone Druid": {
+    "info_url": "https://www.dotabuff.com/heroes/lone-druid"
+  },
+  "Luna": {
+    "info_url": "https://www.dotabuff.com/heroes/luna"
+  },
+  "Medusa": {
+    "info_url": "https://www.dotabuff.com/heroes/medusa"
+  },
+  "Meepo": {
+    "info_url": "https://www.dotabuff.com/heroes/meepo"
+  },
+  "Mirana": {
+    "info_url": "https://www.dotabuff.com/heroes/mirana"
+  },
+  "Monkey King": {
+    "info_url": "https://www.dotabuff.com/heroes/monkey-king"
+  },
+  "Morphling": {
+    "info_url": "https://www.dotabuff.com/heroes/morphling"
+  },
+  "Naga Siren": {
+    "info_url": "https://www.dotabuff.com/heroes/naga-siren"
+  },
+  "Phantom Assassin": {
+    "info_url": "https://www.dotabuff.com/heroes/phantom-assassin"
+  },
+  "Phantom Lancer": {
+    "info_url": "https://www.dotabuff.com/heroes/phantom-lancer"
+  },
+  "Razor": {
+    "info_url": "https://www.dotabuff.com/heroes/razor"
+  },
+  "Riki": {
+    "info_url": "https://www.dotabuff.com/heroes/riki"
+  },
+  "Shadow Fiend": {
+    "info_url": "https://www.dotabuff.com/heroes/shadow-fiend"
+  },
+  "Slark": {
+    "info_url": "https://www.dotabuff.com/heroes/slark"
+  },
+  "Sniper": {
+    "info_url": "https://www.dotabuff.com/heroes/sniper"
+  },
+  "Templar Assassin": {
+    "info_url": "https://www.dotabuff.com/heroes/templar-assassin"
+  },
+  "Terrorblade": {
+    "info_url": "https://www.dotabuff.com/heroes/terrorblade"
+  },
+  "Troll Warlord": {
+    "info_url": "https://www.dotabuff.com/heroes/troll-warlord"
+  },
+  "Ursa": {
+    "info_url": "https://www.dotabuff.com/heroes/ursa"
+  },
+  "Vengeful Spirit": {
+    "info_url": "https://www.dotabuff.com/heroes/vengeful-spirit"
+  },
+  "Viper": {
+    "info_url": "https://www.dotabuff.com/heroes/viper"
+  },
+  "Weaver": {
+    "info_url": "https://www.dotabuff.com/heroes/weaver"
+  },
+  "Ancient Apparition": {
+    "info_url": "https://www.dotabuff.com/heroes/ancient-apparition"
+  },
+  "Chen": {
+    "info_url": "https://www.dotabuff.com/heroes/chen"
+  },
+  "Crystal Maiden": {
+    "info_url": "https://www.dotabuff.com/heroes/crystal-maiden"
+  },
+  "Dark Seer": {
+    "info_url": "https://www.dotabuff.com/heroes/dark-seer"
+  },
+  "Dark Willow": {
+    "info_url": "https://www.dotabuff.com/heroes/dark-willow"
+  },
+  "Disruptor": {
+    "info_url": "https://www.dotabuff.com/heroes/disruptor"
+  },
+  "Enchantress": {
+    "info_url": "https://www.dotabuff.com/heroes/enchantress"
+  },
+  "Grimstroke": {
+    "info_url": "https://www.dotabuff.com/heroes/grimstroke"
+  },
+  "Invoker": {
+    "info_url": "https://www.dotabuff.com/heroes/invoker"
+  },
+  "Jakiro": {
+    "info_url": "https://www.dotabuff.com/heroes/jakiro"
+  },
+  "Keeper of the Light": {
+    "info_url": "https://www.dotabuff.com/heroes/keeper-of-the-light"
+  },
+  "Leshrac": {
+    "info_url": "https://www.dotabuff.com/heroes/leshrac"
+  },
+  "Lich": {
+    "info_url": "https://www.dotabuff.com/heroes/lich"
+  },
+  "Lina": {
+    "info_url": "https://www.dotabuff.com/heroes/lina"
+  },
+  "Lion": {
+    "info_url": "https://www.dotabuff.com/heroes/lion"
+  },
+  "Muerta": {
+    "info_url": "https://www.dotabuff.com/heroes/muerta"
+  },
+  "Necrophos": {
+    "info_url": "https://www.dotabuff.com/heroes/necrophos"
+  },
+  "Oracle": {
+    "info_url": "https://www.dotabuff.com/heroes/oracle"
+  },
+  "Outworld Destroyer": {
+    "info_url": "https://www.dotabuff.com/heroes/outworld-destroyer"
+  },
+  "Puck": {
+    "info_url": "https://www.dotabuff.com/heroes/puck"
+  },
+  "Pugna": {
+    "info_url": "https://www.dotabuff.com/heroes/pugna"
+  },
+  "Queen of Pain": {
+    "info_url": "https://www.dotabuff.com/heroes/queen-of-pain"
+  },
+  "Ringmaster": {
+    "info_url": "https://www.dotabuff.com/heroes/ringmaster"
+  },
+  "Rubick": {
+    "info_url": "https://www.dotabuff.com/heroes/rubick"
+  },
+  "Shadow Demon": {
+    "info_url": "https://www.dotabuff.com/heroes/shadow-demon"
+  },
+  "Shadow Shaman": {
+    "info_url": "https://www.dotabuff.com/heroes/shadow-shaman"
+  },
+  "Silencer": {
+    "info_url": "https://www.dotabuff.com/heroes/silencer"
+  },
+  "Skywrath Mage": {
+    "info_url": "https://www.dotabuff.com/heroes/skywrath-mage"
+  },
+  "Storm Spirit": {
+    "info_url": "https://www.dotabuff.com/heroes/storm-spirit"
+  },
+  "Tinker": {
+    "info_url": "https://www.dotabuff.com/heroes/tinker"
+  },
+  "Warlock": {
+    "info_url": "https://www.dotabuff.com/heroes/warlock"
+  },
+  "Winter Wyvern": {
+    "info_url": "https://www.dotabuff.com/heroes/winter-wyvern"
+  },
+  "Witch Doctor": {
+    "info_url": "https://www.dotabuff.com/heroes/witch-doctor"
+  },
+  "Zeus": {
+    "info_url": "https://www.dotabuff.com/heroes/zeus"
+  },
+  "Abaddon": {
+    "info_url": "https://www.dotabuff.com/heroes/abaddon"
+  },
+  "Arc Warden": {
+    "info_url": "https://www.dotabuff.com/heroes/arc-warden"
+  },
+  "Bane": {
+    "info_url": "https://www.dotabuff.com/heroes/bane"
+  },
+  "Batrider": {
+    "info_url": "https://www.dotabuff.com/heroes/batrider"
+  },
+  "Beastmaster": {
+    "info_url": "https://www.dotabuff.com/heroes/beastmaster"
+  },
+  "Brewmaster": {
+    "info_url": "https://www.dotabuff.com/heroes/brewmaster"
+  },
+  "Dazzle": {
+    "info_url": "https://www.dotabuff.com/heroes/dazzle"
+  },
+  "Death Prophet": {
+    "info_url": "https://www.dotabuff.com/heroes/death-prophet"
+  },
+  "Enigma": {
+    "info_url": "https://www.dotabuff.com/heroes/enigma"
+  },
+  "Io": {
+    "info_url": "https://www.dotabuff.com/heroes/io"
+  },
+  "Magnus": {
+    "info_url": "https://www.dotabuff.com/heroes/magnus"
+  },
+  "Marci": {
+    "info_url": "https://www.dotabuff.com/heroes/marci"
+  },
+  "Nature's Prophet": {
+    "info_url": "https://www.dotabuff.com/heroes/natures-prophet"
+  },
+  "Nyx Assassin": {
+    "info_url": "https://www.dotabuff.com/heroes/nyx-assassin"
+  },
+  "Pangolier": {
+    "info_url": "https://www.dotabuff.com/heroes/pangolier"
+  },
+  "Sand King": {
+    "info_url": "https://www.dotabuff.com/heroes/sand-king"
+  },
+  "Snapfire": {
+    "info_url": "https://www.dotabuff.com/heroes/snapfire"
+  },
+  "Spectre": {
+    "info_url": "https://www.dotabuff.com/heroes/spectre"
+  },
+  "Techies": {
+    "info_url": "https://www.dotabuff.com/heroes/techies"
+  },
+  "Venomancer": {
+    "info_url": "https://www.dotabuff.com/heroes/venomancer"
+  },
+  "Visage": {
+    "info_url": "https://www.dotabuff.com/heroes/visage"
+  },
+  "Void Spirit": {
+    "info_url": "https://www.dotabuff.com/heroes/void-spirit"
+  },
+  "Windranger": {
+    "info_url": "https://www.dotabuff.com/heroes/windranger"
+  }
+}
