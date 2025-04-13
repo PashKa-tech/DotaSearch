@@ -9,3 +9,5 @@ An app with a list of all Dota 2 heroes and their pages on Dotabuff and Dota2Pro
 ![image](https://github.com/user-attachments/assets/3340d379-094d-43df-ab78-5b772c090a9f)
 
 Download: https://github.com/PashKa-tech/DotaSearch/releases (DotaSearch_en/ru.exe)
+
+![Downloads](https://img.shields.io/github/downloads/PashKa-tech/DotaSearch/total)
